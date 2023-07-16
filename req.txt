@@ -1,0 +1,9 @@
+matplotlib>=3.5.3
+tensorflow>=2.10.0
+tensorflow-gpu>=2.10.0
+numpy>=1.23.1
+keras>=2.10.0
+sklearn>=0.0
+scikit-learn>=1.1.2
+pandas>=1.4.3
+scipy>=1.9.0
