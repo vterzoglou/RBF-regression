@@ -16,7 +16,7 @@ Minor tweaks have been made.
 Project_outline.pdf describes the tasks to be achieved through the implementation of the RBF Regression model, including some brief insight
 into RBF Layers/Networks (Greek version provided only).
 
-simple_RBF_application.py addresses the first task, which is basically searching for the optimal RBF layer size among 3 choices, while tracking MSE and $R^{2}$ validation metrics.
+simple_RBF_application.py addresses the first task, which is basically searching for the optimal RBF layer size among 3 choices, while tracking MSE and $R^{2}$ test metrics.
 betas_initializer.py was added to the repo of Petra Vidnerova to account for the initialization of bias parameters as illustrated in the task outline.
 
 fine_tune_RBF.py addresses the second task, which is to search for hyperparameters a bit more thoroughly and systematically (using the Keras Hyperband tuner).
