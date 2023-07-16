@@ -16,4 +16,6 @@ Minor tweaks have been made.
 Project_outline.pdf describes the tasks to be achieved through the implementation of the RBF Regression model, including some brief insight
 into RBF Layers/Networks (Greek version provided only).
 
-simple_RBF_application.py
+simple_RBF_application.py addresses the first task, which is basically searching for the optimal RBF layer size among 3 choices.
+betas_initializer.py was added to the repo of Petra Vidnerova to account for the initialization of bias parameters as illustrated in the task outline.
+
